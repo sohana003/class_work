@@ -8,6 +8,6 @@ public class land implements vehicle{
 	}
 	public void isrunning()
 	{
-			System.out.println("running inland");
+			System.out.println("running in land");
 	}
 }

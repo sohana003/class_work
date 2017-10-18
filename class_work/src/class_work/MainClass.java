@@ -4,7 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 
-		vehicle v=new car(); 
+		vehicle v=new aeroplane(); 
         Do d=new Do();
         d.dosomething(v);
         veriadic a=new veriadic();
